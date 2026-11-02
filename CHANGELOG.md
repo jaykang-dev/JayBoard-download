@@ -1,0 +1,13 @@
+# Changelog
+
+## 1.0.0 — 2026-11-03
+
+First release.
+
+- Desktop dashboard: today's to-dos, unfinished to-dos, progress dashboard, weekly to-dos,
+  monthly goals, goals N months ahead, "On my mind" notes, and a month calendar
+- My Schedule window: month view with events and to-dos, and a dashboard for any day
+- Google Calendar via iCal address (read-only), plus your own events you can add, edit and delete
+- Settings: language (Korean / English), panel opacity, display selection, click-through, start at login,
+  data export / import
+- macOS (Apple Silicon and Intel) and Windows 10/11 (64-bit)

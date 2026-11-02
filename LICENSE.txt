@@ -1,0 +1,63 @@
+JayBoard 사용 조건 (최종 사용자 라이선스)
+Copyright © 2026 Jay.k. All rights reserved.
+
+JayBoard(이하 "소프트웨어")와 그 안의 프로그램 코드, 화면 디자인, 로고, 아이콘, 문서에 대한 저작권과
+모든 권리는 Jay.k 에게 있습니다.
+
+1. 허용
+   - 배포된 소프트웨어를 내려받아 본인의 컴퓨터에 설치하고 무료로 사용할 수 있습니다.
+
+2. 금지 (Jay.k 의 서면 허락이 없는 경우)
+   - 소프트웨어 또는 그 일부(코드, 디자인, 로고, 아이콘 포함)를 복사, 수정, 번역하거나
+     이를 바탕으로 다른 프로그램을 만드는 행위
+   - 소프트웨어를 다시 배포, 공유(다른 웹사이트 · 저장소 · 앱 스토어에 올리기 포함), 판매, 대여하는 행위
+   - 리버스 엔지니어링, 디컴파일, 디스어셈블, 앱 안의 코드를 꺼내 쓰는 행위
+     (관련 법률이 명시적으로 허용하는 범위는 제외)
+   - 저작권 표시나 이 사용 조건을 지우거나 바꾸는 행위
+   - 소프트웨어를 자기 것인 것처럼 표시하는 행위
+
+3. 보증의 부인
+   소프트웨어는 "있는 그대로" 제공되며, 명시적이든 묵시적이든 어떤 보증도 하지 않습니다.
+   소프트웨어 사용으로 생긴 데이터 손실이나 그 밖의 손해에 대해 Jay.k 는 법이 허용하는 최대 범위에서
+   책임을 지지 않습니다.
+
+4. 종료
+   이 조건을 어기면 사용 권한은 즉시 사라지며, 소프트웨어를 지워야 합니다.
+
+5. 함께 들어 있는 다른 소프트웨어
+   Windows 버전에는 아래 구성 요소가 들어 있으며, 각 구성 요소는 해당 라이선스를 따릅니다.
+   - .NET Runtime, Windows Forms – Microsoft, MIT License (https://github.com/dotnet/runtime)
+   - Microsoft Edge WebView2 SDK – Microsoft (https://www.nuget.org/packages/Microsoft.Web.WebView2)
+
+문의: jaykang.dev0@gmail.com
+
+
+-------------------------------------------------------------------------------
+
+JayBoard End User License
+Copyright © 2026 Jay.k. All rights reserved.
+
+All copyright and other rights in JayBoard (the "Software"), including its program code, user interface
+design, logo, icons and documentation, belong to Jay.k.
+
+1. You may download the distributed Software, install it on your own computers and use it free of charge.
+
+2. Without Jay.k's written permission, you may not:
+   - copy, modify or translate the Software or any part of it (including code, design, logo and icons),
+     or create derivative works based on it;
+   - redistribute, share (including uploading to other websites, repositories or app stores), sell,
+     rent or lend the Software;
+   - reverse engineer, decompile or disassemble the Software, or extract code from it,
+     except to the extent expressly permitted by applicable law;
+   - remove or alter any copyright notice or these terms;
+   - present the Software as your own.
+
+3. The Software is provided "as is", without warranty of any kind, express or implied. To the maximum
+   extent permitted by law, Jay.k is not liable for any data loss or other damages arising from its use.
+
+4. Your right to use the Software ends immediately if you breach these terms, and you must then delete it.
+
+5. The Windows version includes the third-party components listed above (section 5 of the Korean text),
+   each under its own license.
+
+Contact: jaykang.dev0@gmail.com
