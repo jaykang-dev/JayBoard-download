@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.1 — 2026-11-03
+
+- **Windows:** fixed the dashboard not showing on the desktop (it was hidden behind the desktop window).
+- **Windows:** added *Help › Open Troubleshooting Log* to help diagnose problems.
+
 ## 1.0.0 — 2026-11-03
 
 First release.
