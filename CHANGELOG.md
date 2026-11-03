@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.0.2 — 2026-11-03
+
+- **Windows:** *Display* now lists your monitors by their real names (for example "Odyssey G5") instead of "Display 1".
+- **Windows:** your chosen monitor is remembered even after reconnecting it, restarting or using a dock.
+- **Windows:** the dashboard keeps filling the screen on monitors with different scaling (for example a 150% laptop and a 100% monitor).
+
 ## 1.0.1 — 2026-11-03
 
 - **Windows:** fixed the dashboard not showing on the desktop (it was hidden behind the desktop window).
