@@ -1,5 +1,14 @@
 # Changelog
 
+## 1.1.0 — 2026-11-05
+
+- **Arrange your widgets:** move, resize and hide widgets on the dashboard. Widgets in the way slide aside
+  or shrink so everything stays on your screen. Start from the right-click menu, ⌥⌘E / Ctrl+Alt+E or the app menu.
+- **Edit in place:** click a to-do, goal or note to edit it (Enter saves, Esc cancels).
+- **Add events from the calendar:** the **+** on each day, double-click a day, or **+ Add event**.
+- Right-click menu on the dashboard: edit widgets, show hidden widgets, reset layout, My Schedule, Settings.
+- Fixed double-clicking a day in My Schedule.
+
 ## 1.0.2 — 2026-11-03
 
 - **Windows:** *Display* now lists your monitors by their real names (for example "Odyssey G5") instead of "Display 1".

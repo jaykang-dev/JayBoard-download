@@ -33,6 +33,8 @@ JayBoard sits on your desktop, underneath all your windows, so you see your day 
 - **On my mind** – a scratchpad for ideas and thoughts.
 - **Calendar** – a month view with your **Google Calendar** events and your to-dos.
 - **My Schedule** – a full window to browse each month, open any day and see everything for that day.
+- **Make it your layout** – move, resize and hide widgets. Widgets in the way slide aside and always stay on your screen.
+- **Edit in place** – click any to-do, goal or note to change it. Click a calendar day to add an event.
 - Korean and English, light on resources, and your data never leaves your computer.
 
 | My Schedule | Settings |
@@ -90,18 +92,28 @@ Repeat for each calendar you want to see. Events refresh every 15 minutes (click
 ### 2. Add to-dos, goals and thoughts
 Type into any box on the dashboard and press **Enter**.
 - Click the circle to mark something done. Hover and click **×** to delete.
+- **Click the text** of a to-do, goal or note to edit it right there. **Enter** saves, **Esc** cancels
+  (in notes, **Shift+Enter** adds a new line).
 - In **Week**, pick a day first, then type the to-do.
-- In **On my mind**, press **Shift+Enter** for a new line. Click a note to edit it.
 
 ### 3. Add your own events
-Click **+ Event** on the dashboard calendar, **+ New event** in My Schedule, or double-click an empty spot on any day.
+Hover over a day in the calendar and click **+**, or **double-click** the day. You can also use **+ Event**,
+**+ Add event** under the selected day, or **+ New event** in My Schedule.
 Your own events can be edited and deleted by clicking them.
 
 Google Calendar events are read-only in JayBoard. Click one to see its details, then:
 - **Edit or delete in Google Calendar** opens it in your browser. Changes show up in JayBoard on the next sync.
 - **Hide in this app** removes it from JayBoard only. (Bring hidden events back in **Settings**.)
 
-### 4. Make it yours (Settings)
+### 4. Arrange your widgets
+**Right-click** the dashboard and choose **Edit widgets** (or press **⌥⌘E** on Mac, **Ctrl+Alt+E** on Windows,
+or use *Edit Widgets* in the menu bar / notification area icon).
+- **Drag** a widget to move it. **Drag the bottom-right corner** to resize it.
+- Widgets in the way slide aside or shrink a little so everything stays on your screen.
+- **Hide** widgets you don't use; bring them back from the right-click menu.
+- Click **Done**, press **Esc** or click an empty spot to finish. **Reset to default layout** is in the right-click menu.
+
+### 5. Make it yours (Settings)
 | Setting | What it does |
 |---|---|
 | **Language** | Korean or English (or follow your system) |
@@ -118,6 +130,7 @@ Google Calendar events are read-only in JayBoard. Click one to see its details, 
 
 | Action | Mac | Windows |
 |---|---|---|
+| Edit widgets | ⌥⌘E | Ctrl+Alt+E |
 | Open My Schedule | ⌘1 | Ctrl+1 |
 | Open Settings | ⌘, | Ctrl+, |
 | Toggle click-through | ⌥⌘T | Ctrl+Alt+T |
@@ -129,6 +142,9 @@ On Mac, JayBoard also has an icon in the menu bar. On Windows, it's in the notif
 ---
 
 ## FAQ
+
+**How do I move or resize widgets?**
+Right-click the dashboard and choose **Edit widgets**. See [Arrange your widgets](#4-arrange-your-widgets).
 
 **I can't click my desktop icons.**
 Turn on **Click through desktop** (Mac ⌥⌘T, Windows Ctrl+Alt+T). Turn it off again when you want to type into the dashboard.
